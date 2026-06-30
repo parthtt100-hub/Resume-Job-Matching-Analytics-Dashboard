@@ -6,7 +6,7 @@ A data analytics project that explores candidate resumes, education, skills, exp
 
 ## Dashboard Preview
 
-![Dashboard](resume%20dashboard.png)
+![Dashboard](resumedashboard.png)
 
 ## Project Overview
 
