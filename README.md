@@ -6,7 +6,7 @@ A data analytics project that explores candidate resumes, education, skills, exp
 
 ## Dashboard Preview
 
-![Resume Job Matching Dashboard](![Dashboard](dashboard.png))
+![Resume Job Matching Dashboard](![Dashboard](resumedashboard.png))
 
 ## Project Overview
 
